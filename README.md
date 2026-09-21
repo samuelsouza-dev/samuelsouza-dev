@@ -12,7 +12,7 @@ alt="Typing SVG"
 
 </div>
 
-## About me
+## About me:
 
 I build full stack applications, APIs, integrations and automation solutions using modern web technologies.
 
