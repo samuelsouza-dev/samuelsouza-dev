@@ -12,15 +12,15 @@ alt="Typing SVG"
 
 </div>
 
-## About me
+## About me:
 
 I build full stack applications, APIs, integrations and automation solutions using modern web technologies.
 
 Currently focused on **SaaS products**, **backend development**, **DevOps**, **process automation** and **AI integrations**.
 
-## Tech stack
+## Tech stack:
 
-### Frontend
+### Frontend:
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
@@ -31,7 +31,7 @@ Currently focused on **SaaS products**, **backend development**, **DevOps**, **p
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 </p>
 
-### Backend
+### Backend:
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
@@ -42,7 +42,7 @@ Currently focused on **SaaS products**, **backend development**, **DevOps**, **p
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </p>
 
-### Infrastructure and automation
+### Infrastructure and automation:
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
